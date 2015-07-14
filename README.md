@@ -1,2 +1,3 @@
 # docker-automatic-build-test
-dummy repository for automatic docker builds
+
+Dummy repository for automatic docker builds
